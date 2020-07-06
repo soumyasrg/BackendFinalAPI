@@ -1,0 +1,7 @@
+{
+    "name":"Backend Final API",
+    "description":"ServerApplication",
+    "repository":"https://github.com/Teceads-DDP/BackendFinalAPI",
+    "keywords":["node","express","static"],
+    "image":"heroku/nodejs"
+}
